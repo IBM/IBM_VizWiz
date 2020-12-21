@@ -16,3 +16,6 @@ Resources related to our winning entry to the 2020 VizWiz Grand Challenge.
   </video>
 </figure>
 <!-- blank line -->
+
+
+<video src="./vizwiz-demo-540.mp4" width="320" height="200" controls preload></video>
