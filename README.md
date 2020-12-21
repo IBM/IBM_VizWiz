@@ -1,4 +1,4 @@
-# IBM_VizWiz
+# Winning Entry to the 2020 VizWiz Grand Challenge
 Resources related to our winning entry to the 2020 VizWiz Grand Challenge.
 
 
