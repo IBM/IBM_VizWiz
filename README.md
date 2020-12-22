@@ -2,8 +2,8 @@
 Resources related to our winning entry to the 2020 VizWiz Grand Challenge.
 
 
-[![](./logo-1.png)](https://drive.google.com/file/d/1qJbFV335DEaFQTYbPAlgOKBrYOqxLxNH/view?usp=sharing "")
+[![](./images/logo-1.png)](https://drive.google.com/file/d/1qJbFV335DEaFQTYbPAlgOKBrYOqxLxNH/view?usp=sharing "")
 
 
-[![](./logo-2.png)](https://ivc.ischool.utexas.edu/~yz9244/VizWiz_workshop/videos/MMTeam-oral.mp4 "")
+[![](./images/logo-2.png)](https://ivc.ischool.utexas.edu/~yz9244/VizWiz_workshop/videos/MMTeam-oral.mp4 "")
 
